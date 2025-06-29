@@ -4,7 +4,7 @@
 
 ## Giới thiệu
 * Tên môn học: Lập trình Python cho Máy học - Python for Machine Learning
-* Mã lớp: CS116.P11.KHTN
+* Mã lớp: CS116.P21.KHTN
 * Năm học: Học kỳ 2 (2024-2025)
 
 ### Giảng viên
@@ -19,6 +19,6 @@
 | 3 | Nguyễn Văn Hồng Thái | 23521418 | 23521418@gm.uit.edu.vn |
 
 ### Mô tả: 
-Đây là đồ án cuối kì môn CS116, yêu cầu áp dụng các kiến thức về Machine Learning Pipeline (EDA, data preprocessing, feature engineering,...) để xây dựng giải pháp, giải quyết vấn đề trong cuộc thi *[Rohlik Sales Forecasting Challenge]([https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2))*. 
+Đây là đồ án cuối kì môn CS116, yêu cầu áp dụng các kiến thức về Machine Learning Pipeline (EDA, data preprocessing, feature engineering,...) để xây dựng giải pháp, giải quyết vấn đề trong cuộc thi [Rohlik Sales Forecasting Challenge](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2).
 
 Notebook, report cùng với kết quả của nhóm trong cuộc thi này được đính kèm ở trên. 
